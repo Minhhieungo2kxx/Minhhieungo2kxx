@@ -71,9 +71,13 @@
 </p>
 <p align="center"><i>Hiểu biết cơ bản về hệ điều hành Windows và Windows Server</i></p>
 
+💻 Dự án nổi bật: 
+
 | Tên dự án                                      | Mô tả                                                                                                                       | Link                                                                    |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |                                                                                                                                                           
-| **Web Thương mại điện tử LaptopAZ**            | Website thương mại điện tử laptopAZ mô hình (MVC). Sử dụng Spring Boot, Thymeleaf, MySQL. | [GitHub](https://github.com/Minhhieungo2kxx/WebThuongMaidienduLaptopAz) |
+| **1.Web Thương mại điện tử LaptopAZ**            | Website thương mại điện tử laptopAZ mô hình (MVC). Sử dụng Spring Boot,, MySQL. | [GitHub](https://github.com/Minhhieungo2kxx/WebThuongMaidienduLaptopAz) |
+| **2.Ứng dụng quản lý bán hàng trực tuyến**            | Ứng dụng bán hàng trựu tuyến,sử dụng công nghệ Java Swing kết hợp SQL Server | [GitHub](https://github.com/Minhhieungo2kxx/shopping_online) |
+
 
 
 
