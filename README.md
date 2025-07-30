@@ -20,14 +20,15 @@
 ---
 
 
-📫 Cách liên hệ với mình:
+
+<h3 align="center">📫 Cách liên hệ với mình:</h3>
 
 <p align="center"> <a href="https://www.facebook.com/tienti.tieu.1" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" /> </a> <a href="https://github.com/Minhhieungo2kxx" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" /> </a> <a href="mailto:ngominhhieu8d@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email" /> </a> </p>
 
 ---
 
 
-🛠️ Công nghệ mình sử dụng:
+<h3 align="center">🛠️ Công nghệ mình sử dụng:</h3>
 
 👨‍💻 Ngôn ngữ lập trình  
 <p align="center">
@@ -104,7 +105,7 @@
 
 
 
-💻 Dự án nổi bật: 
+<h3 align="center">💻 Dự án nổi bật  trong quá trình học tập, tự học: </h3> 
 
 | Tên dự án                                      | Mô tả                                                                                                                       | Link                                                                    |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |                                                                                                                                                           
@@ -140,7 +141,7 @@
 
 
 
-### 😄 Just for fun – Meme time!
+<h3 align="center">  ### 😄 Just for fun – Meme time! </h3>
 
 <p align="center">
   <img src="https://media.tenor.com/Ug6CkGqGApIAAAAC/hello-world.gif" width="300" alt="Hello World Meme" />
