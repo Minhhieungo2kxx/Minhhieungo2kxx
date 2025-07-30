@@ -77,6 +77,7 @@
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |                                                                                                                                                           
 | **1.Web Thương mại điện tử LaptopAZ**            | Website thương mại điện tử laptopAZ mô hình (MVC). Sử dụng Spring Boot,, MySQL. | [GitHub](https://github.com/Minhhieungo2kxx/WebThuongMaidienduLaptopAz) |
 | **2.Ứng dụng quản lý bán hàng trực tuyến**            | Ứng dụng bán hàng trựu tuyến,sử dụng công nghệ Java Swing kết hợp SQL Server | [GitHub](https://github.com/Minhhieungo2kxx/shopping_online) |
+| **3.Hệ thống quản lý tuyển dụng và tìm kiếm trực tuyến**            | Nền tảng web hỗ trợ người dùng tìm kiếm việc làm và nhà tuyển dụng đăng tin tuyển dụng một cách hiệu quả. Dự án này được phát triển với công nghệ Java Spring cho backend và React cho frontend, mang đến một giải pháp toàn diện và mạnh mẽ. | [GitHub](https://github.com/Minhhieungo2kxx/Recruitment-and-job-search-website-Back-End) |
 
 
 
