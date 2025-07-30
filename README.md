@@ -41,7 +41,7 @@
 🧠 Back-End  
 <p align="center">
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
-  <img src="https://img.icons8.com/ios-filled/48/FA5252/laravel.png" alt="ASP.NET MVC"/>
+  <img src="https://icons8.com/icon/13402/asp" alt="ASP.NET MVC"/>
 </p>
 <p align="center"><i>Ứng dụng Spring Boot để xây dựng API và xử lý logic nghiệp vụ; đã tiếp cận với ASP.NET MVC</i></p>
 
