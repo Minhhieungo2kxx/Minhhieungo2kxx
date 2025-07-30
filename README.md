@@ -7,7 +7,8 @@
 
 🧑‍🎓 Về mình:
 
-🎓 Sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Giao thông Vận tải (UTC), với quá trình học tập từ 10/2022 - 10/2025. Đang theo học trình độ Kỹ sư Công nghệ Thông tin.
+🎓 Sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Giao thông Vận tải (UTC), với quá trình học tập từ 10/2022 - 10/2027.
+Đang theo học trình độ Kỹ sư Công nghệ Thông tin.
 
 💻 Đam mê phát triển phần mềm, đặc biệt là các ngôn ngữ lập trình như Java và C#.
 
@@ -76,8 +77,30 @@
 | Tên dự án                                      | Mô tả                                                                                                                       | Link                                                                    |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |                                                                                                                                                           
 | **1.Web Thương mại điện tử LaptopAZ**            | Website thương mại điện tử laptopAZ mô hình (MVC). Sử dụng Spring Boot,, MySQL. | [GitHub](https://github.com/Minhhieungo2kxx/WebThuongMaidienduLaptopAz) |
-| **2.Ứng dụng quản lý bán hàng trực tuyến**            | Ứng dụng bán hàng trựu tuyến,sử dụng công nghệ Java Swing kết hợp SQL Server | [GitHub](https://github.com/Minhhieungo2kxx/shopping_online) |
+| **2.Ứng dụng quản lý bán hàng trực tuyến**            | Ứng dụng bán hàng trực tuyến,sử dụng công nghệ Java Swing kết hợp SQL Server | [GitHub](https://github.com/Minhhieungo2kxx/shopping_online) |
 | **3.Hệ thống quản lý tuyển dụng và tìm kiếm trực tuyến**            | Nền tảng web hỗ trợ người dùng tìm kiếm việc làm và nhà tuyển dụng đăng tin tuyển dụng một cách hiệu quả. Dự án này được phát triển với công nghệ Java Spring cho backend và React cho frontend, mang đến một giải pháp toàn diện và mạnh mẽ. | [GitHub](https://github.com/Minhhieungo2kxx/Recruitment-and-job-search-website-Back-End) |
+
+<!-- 📊 GitHub Statistics -->
+<h2 align="center">📊 Thống kê GitHub</h2>
+
+<p align="center">
+  <a href="https://github.com/minhhieungo2kxx">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Minhhieungo2kxx&show_icons=true&theme=radical&hide_border=true"
+      width="45%"
+      alt="Minhhieungo2kxx"
+    />
+  </a>
+  <a href="https://github.com/minhhieungo2kxx">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhhieungo2kxx&layout=compact&theme=radical&hide_border=true"
+      width="45%"
+      alt="Most Used Languages"
+    />
+  </a>
+</p>
+
+
 
 
 
