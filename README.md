@@ -123,15 +123,15 @@
 <p align="center">
   <a href="https://github.com/minhhieungo2kxx">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Minhhieungo2kxx&show_icons=true&theme=radical&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=minhhieungo2kxx&show_icons=true&theme=radical&hide_border=true"
       width="45%"
       alt="Minhhieungo2kxx"
     />
   </a>
   <a href="https://github.com/minhhieungo2kxx">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhhieungo2kxx&layout=compact&theme=radical&hide_border=true"
-      width="40%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhieungo2kxx&layout=compact&theme=radical&hide_border=true"
+      width="45%"
       alt="Most Used Languages"
     />
   </a>
