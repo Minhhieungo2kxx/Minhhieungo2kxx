@@ -111,17 +111,22 @@ Với trình độ tiếng Anh B2, mình có khả năng nghe và đọc hiểu 
   <img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/?size=50&id=KIcFwp9MNQL5&format=png&color=000000" alt="PostMan" />
+  
+  
 </p>
-<p align="center"><i>Mình sử dụng thành thạo các công cụ phát triển như Visual Studio Code, IntelliJ IDEA, Eclipse và Git/GitHub để giúp việc phát triển phần mềm trở nên hiệu quả hơn, dễ dàng quản lý phiên bản và hợp tác nhóm nhanh chóng.</i></p>
+<p align="center"><i>Mình sử dụng thành thạo các công cụ phát triển như Visual Studio Code, IntelliJ IDEA, Eclipse và Git/GitHub,PostMan để giúp việc phát triển phần mềm trở nên hiệu quả hơn, dễ dàng quản lý phiên bản và hợp tác nhóm nhanh chóng.</i></p>
 
 ---
 
-💻 **Hệ điều hành**  
+💻 **Hệ điều hành and Mạng máy tính**  
 <p align="center">
   <img src="https://img.icons8.com/color/48/windows-10.png" alt="Windows" />
   <img src="https://img.icons8.com/fluency/48/server.png" alt="Windows Server" />
+  <img src="https://img.icons8.com/?size=50&id=un1Oaw18pDxG&format=png&color=000000" alt="computer network" />
+  
 </p>
-<p align="center"><i>Mình cũng có nền tảng vững chắc về hệ điều hành Windows và Windows Server, giúp tôi có thể làm việc hiệu quả trong môi trường phát triển phần mềm đa dạng.</i></p>
+<p align="center"><i>Mình cũng có nền tảng căn bản hệ điều hành Windows và Windows Server,Mạng Máy tính giúp tôi có thể làm việc hiệu quả trong môi trường phát triển phần mềm đa dạng.</i></p>
 
 ---
 
