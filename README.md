@@ -17,16 +17,33 @@
 🚀 Hiện tại, mình đang tập trung vào việc phát triển các dự án Fullstack sử dụng công nghệ Spring Boot cho Backend và React, HTML, CSS, JS cho Frontend. Mình luôn học hỏi và thử thách bản thân với các dự án thực tế để cải thiện kỹ năng và khả năng giải quyết vấn đề.
 
 ---
+---
 
-<h3 align="center">🌍 Trình độ tiếng Anh:</h3>
+<h3 align="center">🎯 Mục tiêu nghề nghiệp</h3>
 
-💬 **Tiếng Anh – Trình độ B2 (Nghe, Đọc tốt, Viết và Nói cơ bản)**
+🚀 Mục tiêu của mình là trở thành Backend Engineer chuyên sâu trong hệ sinh thái Java và Spring. Mình mong muốn xây dựng các hệ thống có khả năng mở rộng tốt, hiệu năng cao và đáp ứng các bài toán thực tế của doanh nghiệp.
 
-Với trình độ tiếng Anh B2, mình có khả năng nghe và đọc hiểu tài liệu kỹ thuật một cách dễ dàng, đặc biệt trong các lĩnh vực liên quan đến công nghệ thông tin và lập trình. Mình có thể tiếp cận và nghiên cứu các tài liệu, sách, và bài báo khoa học chuyên ngành bằng tiếng Anh mà không gặp khó khăn, giúp mình luôn cập nhật những xu hướng và công nghệ mới nhất trong ngành.
+📚 Hiện tại mình đang tập trung học tập và phát triển các kỹ năng liên quan đến Spring Boot, RESTful API, Database Design, Docker, Linux Server và CI/CD nhằm hiểu rõ hơn toàn bộ vòng đời phát triển phần mềm từ xây dựng đến triển khai và vận hành.
 
-✍️ **Viết và Nói:** Mặc dù khả năng viết và nói vẫn đang được cải thiện, nhưng mình có thể giao tiếp cơ bản trong môi trường công việc, thảo luận các vấn đề kỹ thuật với đồng nghiệp, và ghi chép, biên soạn tài liệu, báo cáo kỹ thuật. Mình tin rằng, việc thường xuyên giao tiếp và làm việc trong môi trường quốc tế sẽ giúp mình nâng cao kỹ năng này nhanh chóng.
+---
 
-📚 **Kiến thức chuyên ngành IT:** Mình đã tích lũy được một lượng lớn từ vựng chuyên ngành IT thông qua việc đọc các tài liệu, bài viết, và sách giáo khoa bằng tiếng Anh. Điều này giúp mình hiểu rõ các thuật ngữ kỹ thuật, từ đó dễ dàng áp dụng vào các dự án thực tế và giao tiếp với các đối tác quốc tế trong công việc.
+
+
+
+<h3 align="center">🌍 Trình độ tiếng Anh</h3>
+
+💬 **English Level: B2**
+
+✔️ Đọc hiểu tốt tài liệu kỹ thuật, documentation và sách chuyên ngành CNTT.
+
+✔️ Có khả năng nghiên cứu và học tập từ các nguồn tài liệu tiếng Anh.
+
+✔️ Có thể trao đổi các vấn đề kỹ thuật cơ bản trong môi trường học tập và làm việc.
+
+✔️ Đang tiếp tục cải thiện kỹ năng Speaking và Writing để hướng tới môi trường làm việc quốc tế.
+
+
+
 
 ---
 
@@ -86,10 +103,8 @@ Với trình độ tiếng Anh B2, mình có khả năng nghe và đọc hiểu 
 
 🧠 **Back-End**  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" />
-  <img src="https://img.icons8.com/?size=50&id=CmFNn4pR5YvT&format=png&color=000000"/>
+<i>Mình tập trung chủ yếu vào phát triển Backend với Java và Spring Boot, xây dựng RESTful API, xử lý nghiệp vụ hệ thống, xác thực người dùng bằng JWT, làm việc với JPA/Hibernate và tối ưu hóa truy vấn cơ sở dữ liệu. Ngoài ra, mình cũng đã tiếp cận ASP.NET MVC nhằm mở rộng kiến thức phát triển ứng dụng Web trên nền tảng .NET.</i>
 </p>
-<p align="center"><i>Với Spring Boot, mình xây dựng các API mạnh mẽ và xử lý logic nghiệp vụ phức tạp, giúp tối ưu hóa hiệu suất hệ thống. Đồng thời, mình cũng đã thử nghiệm và học hỏi với ASP.NET MVC để mở rộng khả năng phát triển ứng dụng Back-End đa dạng hơn.</i></p>
 
 ---
 
@@ -119,6 +134,22 @@ Với trình độ tiếng Anh B2, mình có khả năng nghe và đọc hiểu 
 
 ---
 
+
+🚀 **DevOps & Deployment**
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Ubuntu" />
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub Actions" />
+</p>
+
+<p align="center">
+<i>Mình có kinh nghiệm cơ bản sử dụng Docker để container hóa ứng dụng và xây dựng môi trường phát triển nhất quán. Đồng thời, mình có kiến thức cơ bản về Ubuntu Server, quản lý dịch vụ, cấu hình môi trường chạy ứng dụng và làm việc với dòng lệnh Linux. Ngoài ra, mình đang tìm hiểu và áp dụng quy trình CI/CD thông qua GitHub Actions để tự động hóa quá trình build, test và deploy ứng dụng.</i>
+</p>
+
+---
+
+
 💻 **Hệ điều hành and Mạng máy tính**  
 <p align="center">
   <img src="https://img.icons8.com/color/48/windows-10.png" alt="Windows" />
@@ -126,9 +157,43 @@ Với trình độ tiếng Anh B2, mình có khả năng nghe và đọc hiểu 
   <img src="https://img.icons8.com/?size=50&id=un1Oaw18pDxG&format=png&color=000000" alt="computer network" />
   
 </p>
-<p align="center"><i>Mình cũng có nền tảng căn bản hệ điều hành Windows và Windows Server,Mạng Máy tính giúp tôi có thể làm việc hiệu quả trong môi trường phát triển phần mềm đa dạng.</i></p>
+<p align="center">
+<i>Mình có kiến thức nền tảng về Windows, Ubuntu Server và Mạng máy tính, hiểu các khái niệm cơ bản về TCP/IP, HTTP/HTTPS, DNS, Routing, Port, Firewall cũng như môi trường triển khai ứng dụng trên máy chủ Linux.</i>
+</p>
 
 ---
+
+
+<h3 align="center">📚 Kiến thức chuyên môn</h3>
+
+✔️ Object-Oriented Programming (OOP)
+
+✔️ SOLID Principles
+
+✔️ Design Partner (cơ bản)
+
+✔️ RESTful API Design
+
+✔️ JWT Authentication & Authorization
+
+✔️ MVC Architecture (đang học tìm hiểu và nghiên cứu)
+
+✔️ Client - Server Architecture
+
+✔️ Database Design
+
+✔️ Query Optimization
+
+✔️ Git & Version Control
+
+✔️ Docker Containerization
+
+✔️ Linux Server Fundamentals (cơ bản )
+
+✔️ CI/CD Fundamentals (cơ bản)
+
+---
+
 
 <h3 align="center">💻 Dự án nổi bật trong quá trình học tập và tự học: </h3>  
 
@@ -149,6 +214,10 @@ Với trình độ tiếng Anh B2, mình có khả năng nghe và đọc hiểu 
   <a href="https://github.com/minhhieungo2kxx">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhieungo2kxx&layout=compact&theme=radical&hide_border=true" width="45%" alt="Most Used Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhieungo2kxx&theme=radical&hide_border=true" />
 </p>
 
 ---
