@@ -10,7 +10,7 @@
 
 <h3 align="center">🧑‍🎓 Về mình:</h3>
 
-🎓 Mình là sinh viên năm 4 chuyên ngành Công nghệ Thông tin tại Đại học Giao thông Vận tải (UTC). Hành trình học tập của mình bắt đầu từ năm 2022 và dự kiến sẽ kết thúc vào năm 2027, với mục tiêu đạt được trình độ Kỹ sư Công nghệ Thông tin. Mình luôn nỗ lực trong việc tiếp cận và khám phá những kiến thức mới, đặc biệt trong lĩnh vực phát triển phần mềm và lập trình.
+🎓 Mình là sinh viên năm cuối chuyên ngành Công nghệ Thông tin tại Đại học Giao thông Vận tải (UTC). Hành trình học tập của mình bắt đầu từ năm 2022 và dự kiến sẽ kết thúc vào năm 2027, với mục tiêu đạt được trình độ Kỹ sư Công nghệ Thông tin. Mình luôn nỗ lực trong việc tiếp cận và khám phá những kiến thức mới, đặc biệt trong lĩnh vực phát triển phần mềm và lập trình.
 
 💻 Sở thích và đam mê của mình là xây dựng những phần mềm ứng dụng thực tiễn, đặc biệt với các ngôn ngữ lập trình mạnh mẽ như Java và C#. Mình luôn tìm kiếm cách để tối ưu hóa mã nguồn và nâng cao hiệu suất ứng dụng, đồng thời cải tiến trải nghiệm người dùng.
 
